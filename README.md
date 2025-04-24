@@ -5,9 +5,9 @@ Una aplicación web sencilla y divertida para organizar un sorteo entre tus amig
 
 ---
 
-## 📸 Vista previa
+## 📸 Vista previa y click a la imagen si deseas jugar
 
-![Vista previa del proyecto](assets/preview.png)
+[![Vista previa del proyecto](assets/preview.png)](https://challenge-amigo-secreto-d526kvglh-datamasterdevs-projects.vercel.app/)
 
 ---
 
