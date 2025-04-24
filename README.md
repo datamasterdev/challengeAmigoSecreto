@@ -42,7 +42,11 @@ Una aplicación web sencilla y divertida para organizar un sorteo entre tus amig
 ├── README.md `Documentación del proyecto`  
    
 ---
-
+## 🔗 Accede al juego
+Puedes jugar directamente desde este enlace:  
+  
+➡ **[Juego Secreto en Vercel](https://challenge-amigo-secreto-nine-psi.vercel.app/)**
+---
 ## 🧪 Cómo usarlo
 
 1. Cloná el repositorio:
