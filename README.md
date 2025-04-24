@@ -35,9 +35,12 @@ Una aplicación web sencilla y divertida para organizar un sorteo entre tus amig
 
 ## 🧩 Estructura del proyecto
 
-📁 juego-secreto/ │ ├── index.html # Interfaz principal ├── style.css # Estilos personalizados ├── app.js # Lógica del juego ├── README.md # Documentación del proyecto └── assets/ # Imágenes e íconos ├── amigo-secreto.png ├── play_circle_outline.png ├── restart.png └── favicon-16x16.png
-
-
+📁 juego-secreto/   
+├── index.html `Interfaz principal`    
+├── style.css   `Estilos personalizados`     
+├── app.js `lógica del juego`  
+├── README.md `Documentación del proyecto`  
+   
 ---
 
 ## 🧪 Cómo usarlo
